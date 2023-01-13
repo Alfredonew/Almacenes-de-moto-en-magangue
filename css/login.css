@@ -1,0 +1,107 @@
+*{margin: 0%;
+    padding: 0%;}
+
+
+
+body{background-image: url(/images/motoyahama.webp);
+
+background-repeat:no-repeat;
+background-size: cover;
+background-size: 100% 100%;
+background-color: rgb(236, 242, 242);
+
+}
+
+
+
+
+
+.container{
+width:100%;
+height:620px;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+
+form{
+
+margin:50px;
+width:300px;
+height:300px;
+margin-left:auto;
+margin-right:auto;
+padding:50px;
+border-radius: 15px 15px 15px 15px;
+-webkit-border-radius: 15px 15px 15px 15px;
+-moz-border-radius: 15px 15px 15px 15px;
+-ms-border-radius: 15px 15px 15px 15px;
+-o-border-radius: 15px 15px 15px 15px;
+color: hwb(0 92% 5%);
+box-shadow: 5px 5px 5px 5px white;
+}
+
+
+
+input{
+    margin:10px;
+    width: 300px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+button{box-shadow: 3px 3px 3px 3px white;
+color: beige;
+
+}
+
+
+button{
+width: 250px;
+height: 33px;
+margin: 10px;
+background: none;
+text-decoration: none;
+color:white;
+border-radius:40px 40px 40px 40px ;
+ -webkit-border-radius:40px 40px 40px 40px ;
+  -moz-border-radius:40px 40px 40px 40px ;
+   -ms-border-radius:40px 40px 40px 40px ;
+    -o-border-radius:40px 40px 40px 40px ;
+
+}
+
+.registro{
+text-decoration: none;
+color:rgb(228, 214, 16);
+font-size: 18px;
+margin: 10px;
+
+}
+
+
+h1{margin: 20px;
+font-size: 60px;
+color: black;
+
+}
+label{font-size: 25px;
+color: rgb(205, 226, 19);
+
+}
+
+button:hover{ background: rgb(224, 231, 11); color: rgb(0, 0, 0); }
+
+.registro:hover{
+color: rgb(252, 9, 5);
+
+
+}
+
+
+
+

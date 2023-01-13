@@ -1,0 +1,87 @@
+*{margin: 0%;
+padding: 0%;
+
+}
+
+body{background-image: url(/images/motocarro200.webp);
+background-size: cover;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
+
+}
+
+
+
+.container{
+height: 620px;
+
+
+}
+
+
+.forma{
+width: 430px;
+height: 540px;
+margin: 50px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+
+
+box-shadow: 5px 5px 5px 5px rgb(11, 214, 31);
+
+
+}
+
+h1{margin: 10px;
+    color: white;}
+
+
+label,input{
+    
+margin: 10px;
+padding: 10px;
+color: rgb(21, 18, 18);
+
+}
+
+label{font-size: 25px;color: rgb(207, 243, 28);}
+
+
+
+
+input{width: 80%;
+flex-direction: column;
+color: black;
+
+}
+button{
+     margin: 20px;
+     width: 220px;
+     padding: 5px;
+     background: none;
+     color: white;
+     border-radius:40px 40px 40px 40px ;
+     -webkit-border-radius:40px 40px 40px 40px ;
+     -moz-border-radius:40px 40px 40px 40px ;
+     -ms-border-radius:40px 40px 40px 40px ;
+     -o-border-radius:40px 40px 40px 40px ;
+     box-shadow: 2px 2px 2px 2px white;
+
+}
+
+.ingresar-inicio{margin: 20px;
+color: rgb(1, 1, 2);
+text-decoration: none;
+
+}
+.ingresar-inicio:hover{background: black;
+    color: rgb(198, 225, 24);}
+
+button:hover{
+background: white;
+color: black;
+
+}
